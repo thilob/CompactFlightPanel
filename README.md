@@ -1,5 +1,5 @@
 # SimpleFlightPanel
-This Panel should be helpful to use things like the G1000 with a little help by MobiFlight in Sims like MSFS or X-Plane.
+This Panel should be helpful to use things like the G1000 with a little help by [MobiFlight](https://www.mobiflight.com/) in Sims like MSFS or X-Plane.
 
 Things to be implemented:
 - inner NAV-knob with push
