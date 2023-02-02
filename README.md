@@ -40,5 +40,14 @@ and for the Autopilot:
 - Nose down
 
 
+Parts to be used might be like:
+- Rotary Encoders
+  - KY-040 (single) (front-plate mountable)
+  - EC11EBB24C03 (dual, front-plate mountable)
+- Momentary switches
+  - KD2 (might be too large, front-plate mountable)
+  - Keyboard-Switch, like Gateron Pro V2 (front-plate mountable)
+  - or some other kind of microswitch with a long knob (board-mounted, board reverse-mounted to the frontplate, knob-thru-hole in frontlpate)
 
+Goal should be a 3D-printed case, easy to mount knobs and switches, a magical wiring, a microchip, USB-connection to a PC and Configfiles für Mobiflight.
 
