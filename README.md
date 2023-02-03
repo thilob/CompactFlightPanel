@@ -47,7 +47,7 @@ Parts to be used might be like:
 - Momentary switches
   - KD2 (might be too large, front-plate mountable)
   - Keyboard-Switch, like Gateron Pro V2 (front-plate mountable)
-  - or some other kind of microswitch with a long knob (board-mounted, board reverse-mounted to the frontplate, knob-thru-hole in frontlpate)
+  - or some other kind of microswitch with a long knob (board-mounted, board reverse-mounted to the frontplate, knob-thru-hole in frontplate)
 
 Goal should be a 3D-printed case, easy to mount knobs and switches, a magical wiring, a microchip, USB-connection to a PC and Configfiles für Mobiflight.
 
